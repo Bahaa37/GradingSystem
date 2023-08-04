@@ -1,0 +1,39 @@
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\appsettings.json
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\API Grading System.exe
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\API Grading System.deps.json
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\API Grading System.runtimeconfig.json
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\API Grading System.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\API Grading System.pdb
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.csproj.AssemblyReference.cache
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.AssemblyInfoInputs.cache
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.AssemblyInfo.cs
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\staticwebassets\msbuild.API Grading System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\staticwebassets\msbuild.build.API Grading System.props
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API Grading System.props
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API Grading System.props
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\scopedcss\bundle\API Grading System.styles.css
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.csproj.CopyComplete
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\refint\API Grading System.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.pdb
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\API Grading System.genruntimeconfig.cache
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\obj\Debug\net6.0\ref\API Grading System.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\Dapper.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bahaa\Desktop\Xlab-GradingSystem\API Grading System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
